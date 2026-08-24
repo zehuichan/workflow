@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "nature-figure": {
+      "source": "yuan1z0825/nature-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nature-figure/SKILL.md",
+      "computedHash": "08885c27555fd44f084d027d66e78e46ad65649df014fdf3a9938512c115b258"
+    },
+    "nature-polishing": {
+      "source": "yuan1z0825/nature-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nature-polishing/SKILL.md",
+      "computedHash": "df6187cdc90c5a58dc87843131cd4d6528672ed10a595467b972a585bdf6c85e"
+    },
+    "nature-reader": {
+      "source": "yuan1z0825/nature-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nature-reader/SKILL.md",
+      "computedHash": "68f532f43832b748e17b4d909ae596b19aa50d52da6736f133fa8d7c41af0bc6"
+    },
+    "nature-shared": {
+      "source": "yuan1z0825/nature-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nature-shared/SKILL.md",
+      "computedHash": "4451d7c64fcc3fa37692aac0ca0791ad53ad6f60a3fa08fc6085dfdc9981f974"
+    },
+    "nature-writing": {
+      "source": "yuan1z0825/nature-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nature-writing/SKILL.md",
+      "computedHash": "992d4ca3f9bd1614368b435db6b2e3c0be90d69b5ffd53a6e3b7165bc23545cb"
+    }
+  }
+}
